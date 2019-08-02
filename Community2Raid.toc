@@ -1,0 +1,6 @@
+## Interface: 80100
+## Title: Community to Raid
+## Author: Velhari-LosErrantes EU
+## Version: 0.1
+
+main.lua
