@@ -3,7 +3,7 @@
 ## Mass invitation for communities to raid groups made easy. 
 Invite all online players in a community to your raid group with one single command:
 
-> /invitetoraid <community name>
+> /invitetoraid community name
 
 ## Considerations
 Take into account that you will only be able to run as many invitations as empty places in your group! 
