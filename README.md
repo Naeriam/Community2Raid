@@ -5,6 +5,8 @@ Invite all online players in a community to your raid group with one single comm
 
 > /invitetoraid community name
 
+You can download this addon from:  https://www.curseforge.com/wow/addons/community2raid
+
 ## Considerations
 Take into account that you will only be able to run as many invitations as empty places in your group! 
 If your entire first invitation wave is rejected, maybe you will need to manually create a group before trying mass invitation again.
