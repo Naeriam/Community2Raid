@@ -1,6 +1,7 @@
-## Interface: 80205
+## Interface: 80300
 ## Title: Community to Raid
 ## Author: Velhari-LosErrantes EU
 ## Version: 0.1
+## Notes: Mass inviting all online community members to raid
 
 main.lua
