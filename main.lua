@@ -11,7 +11,7 @@ local function InviteToRaid()
     for _,memberID in pairs(membersInChannels) do
         memberInfo = C_Club.GetMemberInfo(communityID, memberID)
         if memberInfo.presence == Enum.ClubMemberPresence.Online then
-            InviteUnit(memberInfo.name)
+			C_PartyInfo.InviteUnit(memberInfo.name)
         end
     end
 end
@@ -28,7 +28,7 @@ local function checkParty()
     numMembers = GetNumSubgroupMembers()
 
     if numMembers > 0 then
-        ConvertToRaid()
+        C_PartyInfo.ConvertToRaid()
         InviteToRaid() --Second invitation wave
     else
         maxTime = maxTime + 1
@@ -49,7 +49,7 @@ local function InviteCommunity(input)
     communityID = nil
 
     for _,community in pairs(communities) do
-        if (community.name == communityName and community.clubType == 1) then
+        if (community.name == communityName and community.clubType == Enum.ClubType.Character) then
             communityID = community.clubId
         end
     end
