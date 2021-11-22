@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 90105
 ## Title: Community to Raid
 ## Author: Velhari-LosErrantes EU
 ## Version: 0.1
