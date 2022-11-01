@@ -1,5 +1,5 @@
-## Interface: 90105
-## Title: Community to Raid
+## Interface: 100000
+## Title: Community |cFF8B008Bto Raid|r
 ## Author: Velhari-LosErrantes EU
 ## Version: 0.1
 ## Notes: Mass inviting all online community members to raid
