@@ -1,5 +1,5 @@
 SLASH_COMMUNITY2RAID1 = '/invitetoraid'
-DEFAULT_CHAT_FRAME:AddMessage('[Community2Raid] Mass invite Community to Raid: /invitetoraid <CommunityName>', 1,1,0)
+DEFAULT_CHAT_FRAME:AddMessage('[|cFF8B008BCommunity2Raid|r] Mass invite Community to Raid: /invitetoraid <CommunityName>', 1,1,0)
 
 maxTime = 0
 membersInChannels = {}

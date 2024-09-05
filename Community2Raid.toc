@@ -1,7 +1,8 @@
-## Interface: 100000
+## Interface: 110002
 ## Title: Community |cFF8B008Bto Raid|r
 ## Author: Velhari-LosErrantes EU
 ## Version: 0.1
+## IconTexture: Interface\Icons\inv_misc_curiouscoin
 ## Notes: Mass inviting all online community members to raid
 
-main.lua
+Community2Raid.lua
