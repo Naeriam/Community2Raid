@@ -1,4 +1,5 @@
-## Interface: 110002
+## Category: Utils by Naeriam
+## Interface: 110207
 ## Title: Community |cFF8B008Bto Raid|r
 ## Author: Velhari-LosErrantes EU
 ## Version: 0.1
