@@ -1,5 +1,5 @@
 ## Category: Utils by Naeriam
-## Interface: 120000
+## Interface: 120001
 ## Title: Community |cFF8B008Bto Raid|r
 ## Author: Velhari-LosErrantes EU
 ## Version: 0.1
