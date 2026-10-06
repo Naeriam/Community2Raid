@@ -1,0 +1,11 @@
+package-as: Community2Raid
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - README.md
+  - LICENSE.txt
+  - CHANGELOG.md
+  - images
